@@ -1,1 +1,1 @@
-# JSStopwatch(https://mellow-sundae-4f56ac.netlify.app/)
+# [JSStopwatch](https://mellow-sundae-4f56ac.netlify.app/)
